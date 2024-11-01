@@ -13,7 +13,7 @@ Statistical Sciences Unit\
 Indian Statistical Institute\
 7, S.J.S. Sansanwal Marg\
 New Delhi 110 016, India\
-Landmark: Opposite Katwaria Sarai Bus Stand\
+Landmark: Opposite Katwaria Sarai Bus Stand
 
 <!--
 Phone: +91-11-4149 3901
@@ -27,7 +27,7 @@ Email:  [at] isid.ac.in
 
 Professor Abhay Bhatt\
 Room 203, Faculty Block\
-Email: abhay [at] isid.ac.in\
+Email: abhay [at] isid.ac.in
 
 ### Secretary
 
@@ -35,6 +35,6 @@ Mr. Anil Kumar\
 Room 104, Faculty Block\
 Phone: +91-11-4149-3904\
 <!-- Email:  [at] isid.ac.in -->
-Fax: +91-11-4149-3981\
+Fax: +91-11-4149-3981
 
 
