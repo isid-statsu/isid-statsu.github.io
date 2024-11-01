@@ -1,6 +1,7 @@
 ---
 title: People
 language: en
+remote_theme: alshedivat / al-folio
 ---
 
 # Faculty members
