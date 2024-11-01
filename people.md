@@ -1,7 +1,6 @@
 ---
 title: People
 language: en
-layout: dropdown
 ---
 
 # Faculty members
