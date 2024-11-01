@@ -5,7 +5,7 @@ language: en
 
 # Faculty members
 
-<img class="fphoto" style="float:right; max-height:200px;" src="photos/faculty/abhay.jpg" />
+<img class="fphoto" style="float:right; max-height:200px;" src="photos/faculty/abhay-bhatt.jpg" />
 
 ## Abhay G. Bhatt
 
@@ -20,7 +20,7 @@ _Contact Information_: +91-4149-3927 , _Office Room No_: 203
 
 * * *
 
-<img class="fphoto" style="float:right; max-height:200px;" src="photos/faculty/Arindam_Chatterjee.jpg" />
+<img class="fphoto" style="float:right; max-height:200px;" src="photos/faculty/arindam-chatterjee.jpg" />
 
 ## Arindam Chatterjee
 
@@ -34,6 +34,8 @@ _Contact Information_: +91-4149-3920 , _Office Room No_: 120
 
 
 * * *
+
+<img class="fphoto" style="float:right; max-height:200px;" src="photos/faculty/isha-dewan.jpg" />
 
 ## Isha Dewan
 
