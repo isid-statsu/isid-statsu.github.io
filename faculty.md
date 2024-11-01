@@ -4,7 +4,7 @@ language: en
 layout: dropdown
 ---
 
-<img class="fphoto" src="http://www.isid.ac.in/~statmath/faculty_photos/abhay.jpg" />
+<img class="fphoto" src="photos/faculty/abhay.jpg" />
 
 #### Abhay G. Bhatt
 
