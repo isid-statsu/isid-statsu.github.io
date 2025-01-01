@@ -4,7 +4,7 @@ The Statistical Sciences Unit is active in research in Statistics and related ar
 We are also involved in teaching in various degree programs of the Institute, including M.Stat and BSDS.
 
 The Statistical Sciences Unit of ISI Delhi was created in 2024 after a reorganization of the various 
-divisions of the Institite. The initial [faculty members](people.html) in the Unit were previously part of the 
+divisions of the Institute. The initial [faculty members](people.html) in the Unit were previously part of the 
 [Theoretical Statistics and Mathematics Unit](https://www.isid.ac.in/~statmath/tsmud/).
 
 ## Location
