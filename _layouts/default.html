@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,maximum-scale=2">
+    <link rel="stylesheet" type="text/css" media="screen" href="/assets/css/style.css?v=6da1d18c54f3e8edde0959d4042ed77f1558dd3f">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet"
+	  href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+	  integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh"
+	  crossorigin="anonymous">
+
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Libre Franklin" >
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto Slab" >
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto Sans" >
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto Serif" >
+    <link rel='stylesheet' href='https://use.fontawesome.com/releases/v5.3.0/css/all.css?ver=5.3.0' type='text/css' media='all' />
+
+  </head>
+
+  <body>
+
+    <!-- HEADER -->
+    <div id="header_wrap" class="outer">
+        <header class="inner">
+          
+          <h1 id="project_title">site.title</h1>
+          <h2 id="project_tagline">site.description</h2>
+
+          <!-- https://getbootstrap.com/docs/4.0/components/navbar/ -->
+	  <nav class="navbar navbar-expand-lg"> <!-- navbar-light bg-light -->
+
+	    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+	      <!-- <span class="navbar-toggler-icon"></span> -->
+	      <i class="fas fa-bars"></i>
+	    </button>
+
+	    <div class="collapse navbar-collapse align-right" id="navbarNav">
+	      <ul class="navbar-nav mr-auto">
+		<li class="nav-item active">
+		  <a class="nav-link" href="/" title="Home"><i class="fas fa-home"></i><span class="sr-only">homepage</span></a>
+		</li>	  
+		<li class="nav-item active">
+		  <a class="nav-link" href="people.html" title="Faculty">People<span class="sr-only">people</span></a>
+		</li>
+		<li class="nav-item active">
+		  <a class="nav-link" href="seminars.html" title="Seminars">Seminars<span class="sr-only">seminars</span></a>
+		</li>
+
+		<!--
+		<li class="nav-item dropdown">
+		  <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+		    Events
+		  </a>
+		  <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+		    <ul class="menu">
+		      <li><a href="seminars.html" ><p>Seminars</p></a></li>
+		      <li><a href="confs.html" ><p>Conferences and Workshops</p></a></li>
+		    </ul>
+		  </div>
+		</li>
+		-->
+
+	      </ul>
+	    </div>
+
+	    <!--
+	    <a class="navbar-brand" href="/">
+	      <span>StatSU Delhi</span>
+	      <img src="statsu.svg" height="62" width="400" alt="Statistical Sciences Unit, ISI Delhi" />
+	    </a>
+	    -->
+
+	  </nav>
+	  
+        </header>
+    </div>
+
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
+
+	{{ content }}
+
+      </section>
+    </div>
+
+    <!-- FOOTER  -->
+    <div id="footer_wrap" class="outer">
+      <footer class="inner">
+        <p>Statistical Sciences Unit, <a href="https://www.isid.ac.in">ISI Delhi</a></p>
+      </footer>
+    </div>
+  </body>
+</html>

@@ -1,3 +1,9 @@
+---
+title: Statistical Sciences Unit, ISI Delhi
+language: en
+layout: default
+---
+
 # Welcome
 
 The Statistical Sciences Unit is active in research in Statistics and related areas, including Probability Theory. 

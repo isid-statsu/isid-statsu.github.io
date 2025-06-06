@@ -1,6 +1,7 @@
 ---
 title: People
 language: en
+layout: default
 ---
 
 # Faculty members
@@ -47,9 +48,9 @@ _Contact Information_: +91-11-4149-3944, _Office Room No_: 220
 
 * * *
 
-## Swagata Nandi
-
 <img class="fphoto" style="float:right; max-height:200px;" src="photos/faculty/swagata-nandi.jpg" />
+
+## Swagata Nandi
 
 Ph.D., Indian Institute of Technology, Kanpur
 
