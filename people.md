@@ -40,9 +40,9 @@ _Office Room No_ : 120
 
 * * * *
 
-## Isha Dewan
-
 <img class="fphoto" style="float:right; max-height:200px;" src="photos/faculty/isha-dewan.jpg" />
+
+## Isha Dewan
 
 _Areas of interest_ : Competing Risks, Reliabiliy Theory, Nonparamteric Inference
 
