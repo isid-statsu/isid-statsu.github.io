@@ -21,7 +21,7 @@ _Phone_ : +91-4149-3927
 
 _Office Room No_ : 203
 
-* * *
+* * * *
 
 ## Arindam Chatterjee
 
@@ -38,7 +38,7 @@ _Phone_ : +91-4149-3920
 _Office Room No_ : 120
 
 
-* * *
+* * * *
 
 ## Isha Dewan
 
@@ -52,7 +52,7 @@ _Phone_ : +91-11-4149-3944
 
 _Office Room No_ : 220
 
-* * *
+* * * *
 
 ## Swagata Nandi
 
@@ -69,7 +69,7 @@ _Phone_ : +91-11-41493931
 _Office Room No_ : 207
 
 
-* * *
+* * * *
 
 ## Deepayan Sarkar
 
@@ -88,7 +88,7 @@ _Office Room No_ : 213
 
 <!--
 
-* * *
+* * * *
 
 <img class="fphoto" style="float:right; max-height:200px;" src="photos/faculty/soham-sarkar.jpg" />
 

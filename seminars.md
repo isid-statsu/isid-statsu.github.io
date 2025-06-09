@@ -32,7 +32,7 @@ methodology. The findings provide actionable guidance for
 statisticians and data scientists dealing with biased data and looking
 for robust, adaptive estimation strategies.
 
-* * *
+* * * *
 
 ## Three-dimensional statistical inference using z-stacks of two-dimensional images of oral microbiome samples
 
@@ -56,7 +56,7 @@ joint analysis of these “slices” using two-dimensional spatial
 isotropic models, and present more challenges we would need to deal
 with to make the model statistically prudent.
 
-* * *
+* * * *
 
 ## High-dimensional Inference using Random Projections
 
@@ -76,7 +76,7 @@ its improvements that have been proposed in the literature. We will
 also explore implementations of random projections in some specific
 methods of classification and density estimation.
 
-* * *
+* * * *
 
 ## MCMC Importance Sampling via Moreau-Yosida Envelopes
 
