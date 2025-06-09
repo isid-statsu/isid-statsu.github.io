@@ -315,36 +315,15 @@ kbd
 
 #header_wrap .inner
 {
-    padding:50px 10px 30px 10px
+    padding:25px 5px 15px 5px
 }
 
-#project_title
+#header_wrap .inner h1
 {
     margin:0;
     color:#fff;
-    font-size:42px;
     font-weight:700;
     text-shadow:#111 0px 0px 10px
-}
-
-#project_tagline
-{
-    color:#fff;
-    font-size:24px;
-    font-weight:300;
-    background:none;
-    text-shadow:#111 0px 0px 10px
-}
-
-#downloads
-{
-    position:absolute;
-    width:210px;
-    z-index:10;
-    bottom:-40px;
-    right:0;
-    height:70px;
-    background:url("../images/icon_download.png") no-repeat 0% 90%
 }
 
 #main_content_wrap
