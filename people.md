@@ -6,9 +6,9 @@ layout: default
 
 # Faculty members
 
-<img class="fphoto" style="float:right; max-height:200px;" src="photos/faculty/abhay-bhatt.jpg" />
-
 ## Abhay G. Bhatt
+
+<img class="fphoto" style="float:right; max-height:200px;" src="photos/faculty/abhay-bhatt.jpg" />
 
 Ph.D., Indian Statistical Institute, Delhi
 
@@ -23,9 +23,9 @@ _Office Room No_ : 203
 
 * * *
 
-<img class="fphoto" style="float:right; max-height:200px;" src="photos/faculty/arindam-chatterjee.jpg" />
-
 ## Arindam Chatterjee
+
+<img class="fphoto" style="float:right; max-height:200px;" src="photos/faculty/arindam-chatterjee.jpg" />
 
 Ph.D., Iowa State University
 
@@ -40,9 +40,9 @@ _Office Room No_ : 120
 
 * * *
 
-<img class="fphoto" style="float:right; max-height:200px;" src="photos/faculty/isha-dewan.jpg" />
-
 ## Isha Dewan
+
+<img class="fphoto" style="float:right; max-height:200px;" src="photos/faculty/isha-dewan.jpg" />
 
 _Areas of interest_ : Competing Risks, Reliabiliy Theory, Nonparamteric Inference
 
@@ -54,9 +54,9 @@ _Office Room No_ : 220
 
 * * *
 
-<img class="fphoto" style="float:right; max-height:200px;" src="photos/faculty/swagata-nandi.jpg" />
-
 ## Swagata Nandi
+
+<img class="fphoto" style="float:right; max-height:200px;" src="photos/faculty/swagata-nandi.jpg" />
 
 Ph.D., Indian Institute of Technology, Kanpur
 
@@ -71,9 +71,9 @@ _Office Room No_ : 207
 
 * * *
 
-<img class="fphoto" style="float:right; max-height:200px;" src="photos/faculty/deepayan-sarkar.jpg" />
-
 ## Deepayan Sarkar
+
+<img class="fphoto" style="float:right; max-height:200px;" src="photos/faculty/deepayan-sarkar.jpg" />
 
 Ph.D., University of Wisconsin-Madison
 
