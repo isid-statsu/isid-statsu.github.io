@@ -78,6 +78,18 @@ methods of classification and density estimation.
 
 * * * *
 
+## Spectra of random hypergraphs and contractions of random tensors
+
+### Soumendu Sundar Mukherjee, SMU, ISI Kolkata
+
+#### 5th December 2024
+
+Abstract: We will discuss some results on the limit spectra of adjacency and Laplacian matrices of r-uniform Erdős-Rényi hypergraphs on n vertices, in an asymptotic regime where r/n → c ∈ [0,1). Unlike the case of Erdős-Rényi random graphs, the entries of hypergraph adjacency matrices exhibit long range correlations, which make spectral analysis more challenging. Using an ANOVA-style representation, we are able to obtain many results, including a Baik-Ben Arous-Péché phase transition for the largest eigenvalue at r = 3: An appropriately scaled largest eigenvalue converges in probability to 2 if r ∈ {2,3}, and to √(r-2) + 1/√(r-2), if r ≥ 4. Time permitting, we will discuss some related results on contractions of random tensors, which show up in the context of tensor PCA and when studying the so-called p-spin spherical spin glass.
+
+This talk will be based on several joint works with Dipranjan Pal and Himasish Talukdar, both PhD students at ISI Kolkata.
+
+* * * *
+
 ## MCMC Importance Sampling via Moreau-Yosida Envelopes
 
 ### Dootika Vats, Department of Mathematics and Statistics, IIT Kanpur
