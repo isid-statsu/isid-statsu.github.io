@@ -12,12 +12,17 @@
     <link rel="stylesheet" type="text/css" media="screen" href="assets/css/style.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.15.3/dist/katex.min.css">
     <script type="text/javascript">
-const macros = { "\\mbox": "\\text", "\\code": "\\texttt"};
-function processMathHTML() {
-    var l = document.getElementsByClassName('reqn');
-    for (let e of l) { katex.render(e.textContent, e, { throwOnError: false, macros }); }
-    return;
-}
+
+      function processMathHTML() {
+	  renderMathInElement(document.body, {
+	      delimiters: [
+		  {left: "$$", right: "$$", display: true},
+		  {left: "$", right: "$", display: false},
+	      ]
+	  });
+	  return;
+      }
+      
     </script>
     <script defer src="https://cdn.jsdelivr.net/npm/katex@0.15.3/dist/katex.min.js"
 	    onload="processMathHTML();">
