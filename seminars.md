@@ -7,6 +7,8 @@ latexmath: true
 
 # Upcoming Seminars
 
+::: {.alert .alert-primary}
+
 ## Bayesian Multi-Kernel Gaussian Process Modeling for Nonlinear Multi-Omics Integration
 
 ### Bhargob Kakoty, Dept of Biostatistics and Health Data Science, University of Minnesota
@@ -15,9 +17,13 @@ latexmath: true
 
 Abstract:  Linear models often may not capture complex, nonlinear associations between outcomes and features. Additionally, data from multiple platforms are now collected on the same individuals, requiring methods to integrate multi-platform data. To address these issues, we propose Np-BIVP, a Bayesian nonparametric framework that uses Gaussian Processes to integrate multi-platform data with multiple kernels. It allows for simultaneous variable selection for each data platform and accurate prediction of the outcome. We also establish a theoretical result on the identifiability of the kernel weights, ensuring that our method can measure the importance of each data platform in predicting the outcome. We further present an extension of our method, called Np-BIVPR, that integrates prior biological information and cross-platform regulatory networks between two omics data platforms. We conduct a realistic simulation study to show that our method outperforms others in variable selection and achieves accurate prediction for both continuous and survival outcomes. Finally, we apply our method to a Glioblastoma Multiforme (GBM) cancer study from The Cancer Genome Atlas (TCGA) and discover biologically relevant biomarkers associated with cancer survival time.
 
+:::
+
 <!-- No seminars are currently scheduled. -->
 
 # Past Seminars
+
+::: {.alert .alert-primary}
 
 ## Nonparametric regression of spatio-temporal data using infinite-dimensional covariates
 
@@ -26,6 +32,8 @@ Abstract:  Linear models often may not capture complex, nonlinear associations b
 #### 6th January, 2026
 
 Abstract: In spatio-temporal analysis, we often record data at specific time intervals but with varying spatial locations between these timepoints. We propose a conditional model to analyze such spatio-temporal data that accommodates the dependencies alongside stationary temporal-level explanatory variables, which may be infinite-dimensional. Because of the absence of a mixing-type dependence condition in this case, which is typically required by the existing studies, we consider a weaker geometric moment contraction (GMC) condition on the covariates. In this work, we obtain nonparametric point estimates of the mean and covariate functions of such a regression model which we then show to be statistically consistent. We also obtain a simultaneous confidence interval of the mean function using a central limit theorem for the proposed estimator.
+
+:::
 
 * * * *
 
@@ -69,39 +77,50 @@ Causal inference is a fundamental area of scientific investigation focused on un
 
 * * * *
 
-## Prabrisha Rakshit, IIM Udaipur
+## Adaptive Proximal Causal Inference with Some Invalid Proxies
 
-### Adaptive Proximal Causal Inference with Some Invalid Proxies
+### Prabrisha Rakshit, IIM Udaipur
 
 #### 30th October 30, 2025
 
-Abstract: Proximal causal inference (PCI) is a recently proposed framework to identify and estimate
-the causal effect of an exposure on a given outcome, in the presence of hidden confounders
-for which proxies are available. Specifically, PCI relies on having observed two valid types of
-proxies; a treatment confounding proxy related to the outcome only to the extent that it is
-associated with an unmeasured confounder conditional on the primary treatment and mea-
-sured covariates, and an outcome confounding proxy related to the treatment only through its
-association with an unmeasured confounder conditional on measured covariates. Therefore,
-valid proxies must satisfy stringent exclusion restrictions; mainly, a treatment confounding
-proxy must not cause the outcome, while an outcome confounding proxy must not be caused
-by the treatment. In order to improve the prospects for identification and possibly the effi-
-ciency of the approach, multiple proxies will often be used, raising concerns about bias due
-to a possible violation of the required exclusion restrictions. To address this concern, we
-introduce necessary and sufficient conditions for identifying causal effects in the presence of
-many confounding proxies, some of which may be invalid. Specifically, under a canonical prox-
-imal linear structural equations model, we propose a LASSO-based median estimator of the
-causal effect of primary interest, which simultaneously selects valid proxies and estimates the
-causal effect with corresponding theoretical performance guarantees. Despite its strengths,
-the LASSO-based approach can under certain conditions lead to inconsistent treatment proxy
-selection. To overcome this limitation, we introduce an adaptive LASSO-based proximal esti-
-mator, which incorporates adaptive weights to differentially penalize separate treatment proxy
-coefficients with respect to the `1 penalty. We formally establish that the adaptive estima-
-tor is √n-consistent for the causal effect, and when a valid outcome-confounding proxy is
-available, we construct corresponding asymptotically valid confidence intervals for the causal
-effect. We also extend the approach to the many outcome-confounding proxies setting, some
-of which may be invalid. All theoretical results are supported by extensive simulation studies.
-We apply the proposed methods to assess the impact of right heart catheterization on 30-day
-survival outcomes for critically ill ICU patients, utilizing data from the SUPPORT study.
+Abstract: Proximal causal inference (PCI) is a recently proposed
+framework to identify and estimate the causal effect of an exposure on
+a given outcome, in the presence of hidden confounders for which
+proxies are available. Specifically, PCI relies on having observed two
+valid types of proxies; a treatment confounding proxy related to the
+outcome only to the extent that it is associated with an unmeasured
+confounder conditional on the primary treatment and mea- sured
+covariates, and an outcome confounding proxy related to the treatment
+only through its association with an unmeasured confounder conditional
+on measured covariates. Therefore, valid proxies must satisfy
+stringent exclusion restrictions; mainly, a treatment confounding
+proxy must not cause the outcome, while an outcome confounding proxy
+must not be caused by the treatment. In order to improve the prospects
+for identification and possibly the effi- ciency of the approach,
+multiple proxies will often be used, raising concerns about bias due
+to a possible violation of the required exclusion restrictions. To
+address this concern, we introduce necessary and sufficient conditions
+for identifying causal effects in the presence of many confounding
+proxies, some of which may be invalid. Specifically, under a canonical
+prox- imal linear structural equations model, we propose a LASSO-based
+median estimator of the causal effect of primary interest, which
+simultaneously selects valid proxies and estimates the causal effect
+with corresponding theoretical performance guarantees. Despite its
+strengths, the LASSO-based approach can under certain conditions lead
+to inconsistent treatment proxy selection. To overcome this
+limitation, we introduce an adaptive LASSO-based proximal esti- mator,
+which incorporates adaptive weights to differentially penalize
+separate treatment proxy coefficients with respect to the `1
+penalty. We formally establish that the adaptive estima- tor is
+√n-consistent for the causal effect, and when a valid
+outcome-confounding proxy is available, we construct corresponding
+asymptotically valid confidence intervals for the causal effect. We
+also extend the approach to the many outcome-confounding proxies
+setting, some of which may be invalid. All theoretical results are
+supported by extensive simulation studies.  We apply the proposed
+methods to assess the impact of right heart catheterization on 30-day
+survival outcomes for critically ill ICU patients, utilizing data from
+the SUPPORT study.
 
 * * * *
 
