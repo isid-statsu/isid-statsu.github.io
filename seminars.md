@@ -8,8 +8,6 @@ latexmath: true
 # Upcoming Seminars
 
 
-<div class="alert alert-primary">
-
 
 ## Bayesian Multi-Kernel Gaussian Process Modeling for Nonlinear Multi-Omics Integration
 
@@ -37,8 +35,6 @@ outcomes. Finally, we apply our method to a Glioblastoma Multiforme
 (GBM) cancer study from The Cancer Genome Atlas (TCGA) and discover
 biologically relevant biomarkers associated with cancer survival time.
 
-
-</div>
 
 
 <!-- No seminars are currently scheduled. -->
