@@ -7,7 +7,9 @@ latexmath: true
 
 # Upcoming Seminars
 
+
 <div class="alert alert-primary">
+
 
 ## Bayesian Multi-Kernel Gaussian Process Modeling for Nonlinear Multi-Omics Integration
 
@@ -15,15 +17,33 @@ latexmath: true
 
 #### Date : 20th January, 2026
 
-Abstract:  Linear models often may not capture complex, nonlinear associations between outcomes and features. Additionally, data from multiple platforms are now collected on the same individuals, requiring methods to integrate multi-platform data. To address these issues, we propose Np-BIVP, a Bayesian nonparametric framework that uses Gaussian Processes to integrate multi-platform data with multiple kernels. It allows for simultaneous variable selection for each data platform and accurate prediction of the outcome. We also establish a theoretical result on the identifiability of the kernel weights, ensuring that our method can measure the importance of each data platform in predicting the outcome. We further present an extension of our method, called Np-BIVPR, that integrates prior biological information and cross-platform regulatory networks between two omics data platforms. We conduct a realistic simulation study to show that our method outperforms others in variable selection and achieves accurate prediction for both continuous and survival outcomes. Finally, we apply our method to a Glioblastoma Multiforme (GBM) cancer study from The Cancer Genome Atlas (TCGA) and discover biologically relevant biomarkers associated with cancer survival time.
+Abstract: Linear models often may not capture complex, nonlinear
+associations between outcomes and features. Additionally, data from
+multiple platforms are now collected on the same individuals,
+requiring methods to integrate multi-platform data. To address these
+issues, we propose Np-BIVP, a Bayesian nonparametric framework that
+uses Gaussian Processes to integrate multi-platform data with multiple
+kernels. It allows for simultaneous variable selection for each data
+platform and accurate prediction of the outcome. We also establish a
+theoretical result on the identifiability of the kernel weights,
+ensuring that our method can measure the importance of each data
+platform in predicting the outcome. We further present an extension of
+our method, called Np-BIVPR, that integrates prior biological
+information and cross-platform regulatory networks between two omics
+data platforms. We conduct a realistic simulation study to show that
+our method outperforms others in variable selection and achieves
+accurate prediction for both continuous and survival
+outcomes. Finally, we apply our method to a Glioblastoma Multiforme
+(GBM) cancer study from The Cancer Genome Atlas (TCGA) and discover
+biologically relevant biomarkers associated with cancer survival time.
+
 
 </div>
+
 
 <!-- No seminars are currently scheduled. -->
 
 # Past Seminars
-
-<div class="alert alert-secondary">
 
 ## Nonparametric regression of spatio-temporal data using infinite-dimensional covariates
 
@@ -33,11 +53,7 @@ Abstract:  Linear models often may not capture complex, nonlinear associations b
 
 Abstract: In spatio-temporal analysis, we often record data at specific time intervals but with varying spatial locations between these timepoints. We propose a conditional model to analyze such spatio-temporal data that accommodates the dependencies alongside stationary temporal-level explanatory variables, which may be infinite-dimensional. Because of the absence of a mixing-type dependence condition in this case, which is typically required by the existing studies, we consider a weaker geometric moment contraction (GMC) condition on the covariates. In this work, we obtain nonparametric point estimates of the mean and covariate functions of such a regression model which we then show to be statistically consistent. We also obtain a simultaneous confidence interval of the mean function using a central limit theorem for the proposed estimator.
 
-</div>
-
 * * * *
-
-<div class="alert alert-secondary">
 
 ## Some probability inequalities with applications to statistical inference
 
@@ -46,8 +62,6 @@ Abstract: In spatio-temporal analysis, we often record data at specific time int
 #### 6th January, 2026
 
 Abstract: In this talk, I will present a few probabilities inequalities related to order statistics of independent data and provide applications to statistical inference in some regular and irregular problems. The first probability inequality concerns the probability that an arbitrary random variable is bounded by the order statistics of an independent sample with a potentially different distribution. This has some interesting applications to the performance of bootstrap and subsampling with a fixed number of resamples. The second probability inequality concerns the probability of order statistics of a unimodal distribution covering the population mode. Some interesting implications of this methodology for inference in irregular problems will be discussed. Finally, some extensions to dependent data will be presented. This represents a combination of works with Manit Paul, Larry Wasserman, and Sivaraman Balakrishnan.
-
-</div>
 
 * * * *
 
