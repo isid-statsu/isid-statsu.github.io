@@ -37,10 +37,10 @@ Email: abhay [at] isid.ac.in
 
 ### Secretary
 
-Mr. Anil Kumar\
+Mr. Amardeep\
 Room 104, Faculty Block\
 Phone: +91-11-4149-3904\
-<!-- Email:  [at] isid.ac.in -->
+Email: statsuoffice [at] isid.ac.in
 Fax: +91-11-4149-3981
 
 
