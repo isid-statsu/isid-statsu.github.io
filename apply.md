@@ -4,8 +4,9 @@ language: en
 layout: default
 ---
 
-We currently one RA position is available, for which application
-deadline is June 7, 2026. The advertisement is available [here](https://www.isid.ac.in).
+We currently have one RA position available, for which the application
+deadline is June 7, 2026. The advertisement is available
+[here](https://www.isid.ac.in).
 
 To apply for the RA position, please fill in [this
 form](https://forms.gle/DjzLfqC1izmu4JGJ7).
