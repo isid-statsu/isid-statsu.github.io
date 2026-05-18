@@ -6,7 +6,7 @@ layout: default
 
 We currently have one RA position available, for which the application
 deadline is June 7, 2026. The advertisement is available
-[here](documents/jobs/STATSUD-RA-17-2026.pdf).
+[here](./documents/jobs/STATSUD-RA-17-2026.pdf).
 
 To apply for the RA position, please fill in [this
 form](https://forms.gle/DjzLfqC1izmu4JGJ7).
