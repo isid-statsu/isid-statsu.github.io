@@ -4,7 +4,7 @@ language: en
 layout: default
 ---
 
-We currently have one RA position available, for which the application
+We currently have an opening for one RA position, for which the application
 deadline is ~~June 7, 2026~~ [July 10, 2026](./documents/jobs/STATSUD-RA-17-2026-extension.pdf). The advertisement is available
 [here](./documents/jobs/STATSUD-RA-17-2026.pdf).
 
