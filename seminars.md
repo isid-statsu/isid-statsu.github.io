@@ -9,6 +9,20 @@ latexmath: true
 
 
 
+## Production networks: Some stylized facts and exploring persistent effects of transitory shocks on supply chains
+
+### Anindya S. Chakrabarti,  Indian Institute of Management, Ahmedabad
+
+#### Date : 28th September, 2026
+
+Abstract:  In this talk, I will proceed in two steps. First, I will discuss a set of stylized facts about production network properties across a number of countries. These facts are empirical in nature and defined over the aggregate network. In the second step, I will utilize a similar dataset and explore the following question - do temporary price shocks permanently relocate supply chain networks? We answer this by exploiting the surge in global coal prices after the Russia-Ukraine war – a shock that fully reverses within our sample period – together with administrative firm-to-firm transaction data from India. A one-standard-deviation increase in pre-war import dependence lowers foreign coal purchases and raises domestic purchases by 46 and 90 percent respectively. Firms first deepen existing domestic relationships, followed by adding new domestic suppliers a year later. Reshoring does not unwind when world prices return to pre-war levels, demonstrating the sunk costs of link formation. Reshoring occurs only where domestic coal is technologically substitutable and locally available, and it raises prices for firms that never imported. Overall, while the aggregate statistical properties seem time- and country-independent, major shuffling in linkages takes place due to external shocks.
+
+
+
+<!-- No seminars are currently scheduled. -->
+
+# Past Seminars
+
 ## Bayesian Multi-Kernel Gaussian Process Modeling for Nonlinear Multi-Omics Integration
 
 ### Bhargob Kakoty, Dept of Biostatistics and Health Data Science, University of Minnesota
@@ -35,11 +49,7 @@ outcomes. Finally, we apply our method to a Glioblastoma Multiforme
 (GBM) cancer study from The Cancer Genome Atlas (TCGA) and discover
 biologically relevant biomarkers associated with cancer survival time.
 
-
-
-<!-- No seminars are currently scheduled. -->
-
-# Past Seminars
+* * * * 
 
 ## Nonparametric regression of spatio-temporal data using infinite-dimensional covariates
 
